@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Margherita or @MargheritaDGit
 - 🌱 I’m currently learning Java, Spring Framework, SQL
-- 🔭 I’m currently working on CarDealer and portfolio
+- 🔭 I’m currently working on car dealer and portfolio
 - 📫 How to reach me: margherita.deodato14@gmail.com
 - ⚡ Fun fact: sout "Hello World"
 
